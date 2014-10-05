@@ -1,0 +1,25 @@
+{
+  "name": "zio_hal",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/regtan/zio_hal.git"
+  },
+  "author": "regtan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regtan/zio_hal/issues"
+  },
+  "homepage": "https://hal.zio-2011.com/",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jade": "^0.13.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-cli": "^0.1.13"
+  }
+}
